@@ -31,7 +31,7 @@ To use this framework in your Laravel project, follow these steps:
 Add the `app.js` file to your main Blade template (`resources/views/app.blade.php`):
 
 ```html
-<script src="{{ asset('js/app.js') }}"></script>
+<script src="{{ asset('js/spa.js') }}"></script>
 ```
 
 ### Step 2
