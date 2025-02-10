@@ -28,7 +28,7 @@ To use this framework in your Laravel project, follow these steps:
 
 ### Step 1: Include the JavaScript File
 
-Add the `app.js` file to your main Blade template (`resources/views/app.blade.php`):
+Add the `spa.js` file to your main Blade template (`resources/views/app.blade.php`):
 
 ```html
 <script type="module" src="{{ asset('js/spa.js') }}"></script>
